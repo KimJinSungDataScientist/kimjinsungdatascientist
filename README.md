@@ -1,8 +1,12 @@
 ### Studying Data Science
+- I am an engineering college student.
 
 ### Skills
-- test
-- test2
+- Data Analysis
+- Machine learning
+- Deep Learning
+- Statistics
+- Natural Language Processing
 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJinSungDataScientist)](https://github.com/anuraghazra/github-readme-stats)
