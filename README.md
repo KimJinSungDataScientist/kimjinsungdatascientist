@@ -1,4 +1,6 @@
-### Hi there 👋
+### I'm studying data science. 👋
+
+### Interest
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJinSungDataScientist)](https://github.com/anuraghazra/github-readme-stats)
 
