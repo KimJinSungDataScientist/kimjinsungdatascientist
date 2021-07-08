@@ -3,7 +3,7 @@
 
 ### Skills
 - Data Analysis
-- Machine learning
+- Machine Learning
 - Deep Learning
 - Statistics
 - Natural Language Processing
