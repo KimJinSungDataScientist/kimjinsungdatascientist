@@ -1,5 +1,5 @@
 ### Studying Data Science
-- I am an engineering college student.
+- I am an engineering student.
 
 ### Skills
 - Data Analysis
